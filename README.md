@@ -6,7 +6,7 @@ This project analyzes why startups in India failed between 2011 and 2024 using d
 
 ## 📊 Objectives
 - Create a structured dataset of failed startups
-- Analyze patterns in failu  re by year, sector, and region
+- Analyze patterns in failure by year, sector, and region
 - Visualize failure reasons and startup lifespans
 - Derive actionable business insights
 
